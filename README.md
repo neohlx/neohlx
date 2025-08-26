@@ -1,4 +1,9 @@
-## Hi there 👋
+## Olá Mundo! 👋
+
+- 🔭 Atualmente estudando na [Alura](https://www.alura.com.br)  
+- 🌱 Focado em **HTML, CSS e JavaScript.**  
+- 💬 Pergunte-me sobre **Half-Life, Matrix e CS**  
+- 😄 Pronomes: ele/dele
 
 <!--
 **neohlx/neohlx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
