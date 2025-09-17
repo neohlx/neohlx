@@ -1,5 +1,6 @@
 ## Olá Mundo! 👋
 
+- 📚 Engenharia de Software - UFC
 - 🔭 Atualmente estudando na [Alura](https://www.alura.com.br)  
 - 🌱 Focado em **HTML, CSS e JavaScript.**  
 - 💬 Pergunte-me sobre **Half-Life, Matrix e CS**  
