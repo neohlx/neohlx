@@ -1,8 +1,8 @@
 ## Olá Mundo! 👋
-
+- Meu nome e Rafael Lacerda, Cearense, 21 anos.
 - 📚 Engenharia de Software - UFC
-- 🔭 Atualmente estudando na [Alura](https://www.alura.com.br)  
-- 🌱 Focado em **HTML, CSS e JavaScript.**  
+- 🔭 Aluno na [Alura](https://www.alura.com.br)  
+- 🌱 Atualmente estudando **HTML, CSS e JavaScript.**  
 - 💬 Pergunte-me sobre **Half-Life, Matrix e CS**  
 - 😄 Pronomes: ele/dele
 
